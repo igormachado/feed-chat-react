@@ -25,6 +25,6 @@
 - phopos-icons react
 - ViteJS
 
-![Alt text](../src/assets/feed-chat-01.png)
+![Alt text](/feed-chat-01.png)
 
-![Alt text](../src/assets/feed-chat-02.png)
+![Alt text](/feed-chat-02.png)
