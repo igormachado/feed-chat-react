@@ -8,9 +8,13 @@
 - Dar like e deletar o comentário.
 
 <h2>Principais functionalidades.</h2>
+
 - Adicionar um post.
+  
 - Adicionar comentário(enviar um feedback).
+
 - Dar like que aqui usamos o nome aplaudir.
+  
 - Deletar o comentário.
 
 <h2>Desafios que encontrei no projeto</h2>
